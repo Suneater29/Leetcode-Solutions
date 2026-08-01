@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0486-predict-the-winner](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suneater29/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -195,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suneater29/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
