@@ -14,8 +14,9 @@ public:
     int findHeight(TreeNode* root){
         if(root==nullptr) return 0;
         int leftHeight=findHeight(root->left);
+        if(leftHeight==-1) return -1;
         int rightHeight=findHeight(root->right);
-        if(leftHeight==-1 || rightHeight==-1) return -1;
+        if(rightHeight==-1) return -1;
         if(abs(leftHeight-rightHeight)>1) return -1;
         return 1+max(leftHeight,rightHeight);
     }
