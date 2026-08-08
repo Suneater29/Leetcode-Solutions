@@ -11,28 +11,39 @@
  */
 class Solution {
 public:
+    void rightDFS(TreeNode* root,int level,vector<int> &ans){
+        if(root==nullptr) return;
+        if(ans.size()==level){
+            ans.push_back(root->val);
+        }
+        rightDFS(root->right,level+1,ans);
+        rightDFS(root->left,level+1,ans);
+    }
     vector<int> rightSideView(TreeNode* root) {
-        vector<vector<int>>ans;
-        queue<TreeNode*>q;
-        if(root==nullptr) return {};
-        q.push(root);
-        while(!q.empty()){
-            int qsize=q.size();
-            vector<int>level;
-            for(int i=0;i<qsize;i++){
-                TreeNode* node=q.front();
-                q.pop();
-                if(node->left!=nullptr) q.push(node->left);
-                if(node->right!=nullptr) q.push(node->right);
-                level.push_back(node->val);
-            }
-            ans.push_back(level);
-        }
-        vector<int>view;
-        if(ans.size()==0) return view;
-        for(auto it:ans){
-            view.push_back(it.back());
-        }
-        return view;
+        // vector<vector<int>>ans;
+        // queue<TreeNode*>q;
+        // if(root==nullptr) return {};
+        // q.push(root);
+        // while(!q.empty()){
+        //     int qsize=q.size();
+        //     vector<int>level;
+        //     for(int i=0;i<qsize;i++){
+        //         TreeNode* node=q.front();
+        //         q.pop();
+        //         if(node->left!=nullptr) q.push(node->left);
+        //         if(node->right!=nullptr) q.push(node->right);
+        //         level.push_back(node->val);
+        //     }
+        //     ans.push_back(level);
+        // }
+        // vector<int>view;
+        // if(ans.size()==0) return view;
+        // for(auto it:ans){
+        //     view.push_back(it.back());
+        // }
+        // return view;
+        vector<int>rightView;
+        rightDFS(root,0,rightView);
+        return rightView;
     }
 };
