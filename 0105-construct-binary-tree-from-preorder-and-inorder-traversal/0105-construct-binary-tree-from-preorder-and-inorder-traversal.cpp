@@ -11,23 +11,22 @@
  */
 class Solution {
 public:
-    TreeNode* makeTree(vector<int> &preorder,int prestart,int preend,vector<int> &inorder,int instart,int inend,map<int,int> &mpp){
+    TreeNode* binaryTree(vector<int> &preorder,vector<int> &inorder,int prestart,int instart,int preend,int inend,map<int,int> &mpp){
         if(prestart>preend || instart>inend) return nullptr;
-        TreeNode* node=new TreeNode(preorder[prestart]);
-        int innode=mpp[node->val];
-        int rem=innode-instart;
-        node->left=makeTree(preorder,prestart+1,prestart+rem,inorder,instart,innode-1,mpp);
-        node->right=makeTree(preorder,prestart+rem+1,preend,inorder,innode+1,inend,mpp);
-        return node;
+        TreeNode* root=new TreeNode(preorder[prestart]);
+        int rootind=mpp[root->val];
+        int remaining=rootind-instart;
+        root->left=binaryTree(preorder,inorder,prestart+1,instart,prestart+remaining,rootind-1,mpp);
+        root->right=binaryTree(preorder,inorder,prestart+remaining+1,rootind+1,preend,inend,mpp);
+        return root;
     }
-
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        map<int,int>mpp;
         int n=preorder.size();
         int m=inorder.size();
+        map<int,int>mpp;
         for(int i=0;i<m;i++){
             mpp[inorder[i]]=i;
         }
-        return makeTree(preorder,0,n-1,inorder,0,m-1,mpp);
+        return binaryTree(preorder,inorder,0,0,n-1,m-1,mpp);
     }
 };
