@@ -21,5 +21,21 @@ public:
         vector<int>inorder;
         makeinorder(root,inorder);
         return inorder;
+        // vector<int>inorder;
+        // stack<TreeNode*>st;
+        // TreeNode* node=root;
+        // while(true){
+        //     if(node!=nullptr){
+        //         st.push(node);
+        //         node=node->left;
+        //     }
+        //     else{
+        //         if(st.empty()==true) break;
+        //         node=st.top();
+        //         inorder.push_back(node->val);
+        //         node=node->right;
+        //     }
+        // }
+        // return inorder;
     }
 };
