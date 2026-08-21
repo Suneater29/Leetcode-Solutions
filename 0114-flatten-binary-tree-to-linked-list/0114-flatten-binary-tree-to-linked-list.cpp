@@ -20,24 +20,39 @@ public:
     //     prev=root;
     // }
     void flatten(TreeNode* root) {
-        // TreeNode* prev=nullptr;
         if(root==nullptr) return;
-        stack<TreeNode*>st;
-        st.push(root);
-        while(!st.empty()){
-            TreeNode* curr=st.top();
-            st.pop();
-            if(curr->right!=nullptr){
-                st.push(curr->right);
-            }
+        TreeNode* curr=root;
+        while(curr!=nullptr){
+            TreeNode* prev=nullptr;
             if(curr->left!=nullptr){
-                st.push(curr->left);
+                prev=curr->left;
+                while(prev->right!=nullptr){
+                    prev=prev->right;
+                }
+                prev->right=curr->right;
+                curr->right=curr->left;
+                curr->left=nullptr;
             }
-            if(!st.empty()){
-                curr->right=st.top();
-            }
-            curr->left=nullptr;
+            curr=curr->right;
         }
+        // TreeNode* prev=nullptr;
+        // if(root==nullptr) return;
+        // stack<TreeNode*>st;
+        // st.push(root);
+        // while(!st.empty()){
+        //     TreeNode* curr=st.top();
+        //     st.pop();
+        //     if(curr->right!=nullptr){
+        //         st.push(curr->right);
+        //     }
+        //     if(curr->left!=nullptr){
+        //         st.push(curr->left);
+        //     }
+        //     if(!st.empty()){
+        //         curr->right=st.top();
+        //     }
+        //     curr->left=nullptr;
+        // }
         // makelist(root,prev);
     }
 };
