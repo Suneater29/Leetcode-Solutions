@@ -38,5 +38,6 @@ public:
             }
             curr->left=nullptr;
         }
+        // makelist(root,prev);
     }
 };
