@@ -11,16 +11,32 @@
  */
 class Solution {
 public:
-    void makelist(TreeNode* root,TreeNode* &prev){
-        if(root==nullptr) return;
-        makelist(root->right,prev);
-        makelist(root->left,prev); 
-        root->right=prev;
-        root->left=nullptr;
-        prev=root;
-    }
+    // void makelist(TreeNode* root,TreeNode* &prev){
+    //     if(root==nullptr) return;
+    //     makelist(root->right,prev);
+    //     makelist(root->left,prev); 
+    //     root->right=prev;
+    //     root->left=nullptr;
+    //     prev=root;
+    // }
     void flatten(TreeNode* root) {
-        TreeNode* prev=nullptr;
-        makelist(root,prev);
+        // TreeNode* prev=nullptr;
+        if(root==nullptr) return;
+        stack<TreeNode*>st;
+        st.push(root);
+        while(!st.empty()){
+            TreeNode* curr=st.top();
+            st.pop();
+            if(curr->right!=nullptr){
+                st.push(curr->right);
+            }
+            if(curr->left!=nullptr){
+                st.push(curr->left);
+            }
+            if(!st.empty()){
+                curr->right=st.top();
+            }
+            curr->left=nullptr;
+        }
     }
 };
