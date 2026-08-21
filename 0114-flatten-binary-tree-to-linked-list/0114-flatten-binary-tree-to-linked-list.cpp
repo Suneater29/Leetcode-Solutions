@@ -20,7 +20,7 @@ public:
     //     prev=root;
     // }
     void flatten(TreeNode* root) {
-        if(root==nullptr) return;
+        // if(root==nullptr) return;
         TreeNode* curr=root;
         while(curr!=nullptr){
             TreeNode* prev=nullptr;
