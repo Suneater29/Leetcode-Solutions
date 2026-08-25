@@ -19,7 +19,6 @@ public:
         return node;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int n=preorder.size();
         int root=0;
         return makeBST(preorder,root,INT_MAX);
     }
