@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
