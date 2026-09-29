@@ -1,11 +1,12 @@
 class Solution {
 public:
-    bool check[105][105][105];
+    bool check[101][101][101];
     bool dfs(int m,int n,vector<vector<char>> &grid,int row,int col,int balance){
         if(grid[row][col]=='(') balance++;
         else balance--;
         if(balance<0) return false;
-        if(balance>((m-row) + (n-col) -1)) return false;
+        int remaining=(m-row) + (n-col) -1;
+        if(balance>remaining) return false;
         if(row==m-1 && col==n-1) return balance==0;
         if(check[row][col][balance]) return false;
         check[row][col][balance]=true;
