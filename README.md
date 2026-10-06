@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
@@ -516,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -548,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
@@ -638,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -683,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
