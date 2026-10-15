@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -687,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
