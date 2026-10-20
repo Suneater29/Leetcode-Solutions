@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
