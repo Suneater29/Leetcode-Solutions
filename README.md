@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
