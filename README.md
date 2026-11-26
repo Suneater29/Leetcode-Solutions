@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suneater29/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Suneater29/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
